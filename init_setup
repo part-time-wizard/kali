@@ -1,0 +1,10 @@
+Initial Setup of Kali Linux
+
+https://www.kali.org/docs/general-use/updating-kali/
+```
+sudo apt update
+sudo apt full-upgrade -y
+sudo apt autoremove -y
+cat /etc/os-release
+sudo reboot
+```
